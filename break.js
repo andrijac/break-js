@@ -11,7 +11,7 @@ var __break = (function() {
 	// removeBreakpoint - use it only when you want to remove a breakpoint, set it to any truthful value.
 	return function(funcName, removeBreakpoint) {
 		
-		// get pointer to original function
+		// get reference to original function
 		var original = (new Function(concat("return ", funcName, ";")))(),
 			// compile override function
 			override = new Function("overrideFunc", concat(funcName , " = overrideFunc;"));					
