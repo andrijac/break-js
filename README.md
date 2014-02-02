@@ -24,7 +24,7 @@ To remove the breakpoint:
 __break('foo.bar.func', true);
 ```
 
-Potentially, we could add this function to `console` object:
+Potentially, we could assign `__break` function to `console` object:
 ```javascript
 if(!console.break) {
   console.break = __break;
