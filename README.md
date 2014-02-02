@@ -14,8 +14,8 @@ Parameters:
     - [Optional]
     - Type: boolean
 
-Details on implementation:
-// TODO: add blog post url
+Details on implementation: 
+[http://andrijac.github.io/blog/2014/01/31/javascript-breakpoint/]
 
 Usage
 -
