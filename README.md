@@ -6,8 +6,13 @@ Set breakpoint before function call from console, this could potentially be impl
 Script makes global function `__break`.
 
 Parameters:
-1. Function name : string
-2. Remove breakpoint: bool, Optional
+
+1. Function name
+    Mandatory
+    Type: string
+2. Remove breakpoint
+    [Optional]
+    Type: boolean
 
 Details on implementation:
 // TODO: add blog post url
