@@ -8,11 +8,11 @@ Script makes global function `__break`.
 Parameters:
 
 1. Function name
-    Mandatory
-    Type: string
+    - Mandatory
+    - Type: string
 2. Remove breakpoint
-    [Optional]
-    Type: boolean
+    - [Optional]
+    - Type: boolean
 
 Details on implementation:
 // TODO: add blog post url
