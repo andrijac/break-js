@@ -15,7 +15,7 @@ Parameters:
     - Type: boolean
 
 Details on implementation: 
-[http://andrijac.github.io/blog/2014/01/31/javascript-breakpoint/]
+http://andrijac.github.io/blog/2014/01/31/javascript-breakpoint/
 
 Usage
 -
